@@ -1,0 +1,8 @@
+Pretty much we are going to make 2 folders
+We will have index.html to start it off
+one will be called Pages, the other will be img
+
+Recipes:
+Lasagna
+Cane Sauce
+Alfredo Sauce
