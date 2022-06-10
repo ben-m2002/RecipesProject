@@ -2,7 +2,7 @@
     color : purple
 }
 
-.center-div{
+.center{
     text-align: center;
 }
 
@@ -19,4 +19,9 @@ p {
     color : royalblue;
     text-align: center;
     font-weight: 700;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
 }
